@@ -1,0 +1,32 @@
+# 👋 Hi, I'm Ishu Passi
+
+🚀 Senior iOS Engineer with 12+ years of experience building scalable mobile applications.
+
+## 💡 Expertise
+
+* Swift, SwiftUI, UIKit
+* MVVM, Clean Architecture
+* Firebase, REST APIs
+* Performance Optimization & Memory Management
+* App Store Deployment & CI/CD
+
+## 📱 What I’ve Built
+
+* FinTech apps with secure payments
+* Subscription-based apps
+* Large-scale apps with thousands of users
+
+## 🔧 Currently Working On
+
+* UIKit → SwiftUI Migration
+* Modular Architecture Systems
+
+## 🧩 Open Source Work
+
+* iOS Architecture Samples
+* Reusable Components & Utilities
+
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/ishu-passi-9a9a2b79
+* Email: ishupassi90@gmail.com
